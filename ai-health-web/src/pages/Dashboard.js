@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { healthAPI, userAPI } from '../services/api';
@@ -590,3 +591,6 @@ const Dashboard = () => {
 };
 
 export default Dashboard;
+=======
+
+>>>>>>> 113f5c448a0d24ae55dc9df9cebe1b1db54699ca
